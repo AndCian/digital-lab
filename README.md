@@ -2,7 +2,8 @@
 
 **A personal space for technology, experimentation and continuous learning.**
 
-Welcome to my Digital Lab: a public repository where I explore digital technologies, experiment with different tools and document my learning journey.
+Welcome to my Digital Lab: a public repository where I explore digital technologies,  
+experiment with different tools and document my learning journey.
 
 ## Areas of Exploration
 
@@ -29,7 +30,8 @@ digital-lab/
 
 This repository is a work in progress.
 
-Not everything here needs to be a finished product. Some projects will be experiments, others will be practical exercises or technical notes.
+Not everything here needs to be a finished product. Some projects will be experiments,  
+others will be practical exercises or technical notes.
 
 The goal is to learn by building, testing, documenting and exploring.
 
